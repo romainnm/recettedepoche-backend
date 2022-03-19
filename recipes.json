@@ -1,0 +1,771 @@
+[
+  {
+    "name": "Apple chips",
+    "ingredients": ["2 apples thinly sliced", "2 tsp sugar", "½ tsp cinnamon"],
+    "instructions": [
+      "Preheat the oven to 200°F. In a large bowl, toss apples with sugar and cinnamon",
+      "Place a cooling rack onto a baking sheet. Lay apples slices onto the baking sheet so that no apples overlap. Cook for 2-3 hours, flipping apples halfway through",
+      "Bake until dried out but still pliable. Apples will continue to crisp while cooling"
+    ],
+    "style": "baking",
+    "duration": 180,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Apple oatmeal crisp",
+    "ingredients": [
+      "2 apple",
+      "⅓ cup sugar",
+      "1 tspn cinnamon",
+      "1 Tbs flour (all purpose)",
+      "1 cup oatmeal (old fashioned)",
+      "½ cup butter",
+      "1 tspn salt",
+      "1 squeeze of lime"
+    ],
+    "instructions": [
+      "Peel and cut apples",
+      "Mix apple, cinnamon, sugar, flour, lime juice, salt",
+      "Mix oatmeal and butter in separate bowl",
+      "Put apples on tray and mix on top",
+      "Oven 400F - 40 min"
+    ],
+    "style": "baking",
+    "duration": 40,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Avocado Sauce",
+    "ingredients": [
+      "1 Avocado",
+      "½ a lime juice",
+      "1 tbsp Cilantro",
+      "1 tsp Black Pepper",
+      "2 tbsp Mayo",
+      "2 tbsp Mexican Crema (alternative: whipping cream)",
+      "1 tsp Salt"
+    ],
+    "instructions": ["Mix all the ingredients together"],
+    "style": "sauce",
+    "duration": 5,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Bagel",
+    "ingredients": [
+      "7-10g yeast",
+      "500g bread flour",
+      "2 ½ cup water",
+      "10g salt"
+    ],
+    "instructions": [
+      "Knead everything 15 min",
+      "Rest 1 hour",
+      "Punch & separate in 8",
+      "Make balls",
+      "Rest 10min",
+      "Make hole",
+      "Boil water & put dough (1min each side)",
+      "Preheat oven 425F",
+      "Put seasoning",
+      "Oven for 20min"
+    ],
+    "style": "baking",
+    "duration": 105,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Baguette",
+    "ingredients": [
+      "500g bread flour",
+      "7g dry yeast (½ tbsp)",
+      "350g water",
+      "10g salt 2tsp"
+    ],
+    "instructions": [
+      "Mix & rest for 30min",
+      "Add 8g salt & rest for 30min",
+      "4 Folds every 30min for 2 hours",
+      "Cover and put in fridge for 18-24h",
+      "Shape the baguette",
+      "480F for 20min (500F if convection)",
+      "Put some water on bottom tray to create steam in oven"
+    ],
+    "style": "baking",
+    "duration": 1780,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Banana Bread",
+    "ingredients": [
+      "3 ripe bananas, mashed",
+      "1 cup white sugar",
+      "1 egg",
+      "¼ cup melted butter",
+      "1 ½ cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1 teaspoon salt"
+    ],
+    "instructions": [
+      "Preheat oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan.",
+      "Combine bananas, sugar, egg, and butter together in a bowl. Mix flour and baking soda together in a separate bowl; stir into banana mixture until batter is just mixed. Stir salt into batter. Pour batter into the prepared loaf pan.",
+      "Bake in the preheated oven until a toothpick inserted in the center of the bread comes out clean, about 1 hour."
+    ],
+    "style": "baking",
+    "duration": 60,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Beef Noodle Soup (6 servings)",
+    "ingredients": [
+      "6 qt water, plus more as needed",
+      "2 lb beef shank",
+      "6 scallions, halved crosswise, divided",
+      "8 slices fresh ginger, divided",
+      "6 pods star anise, divided",
+      "½ cup vegetable oil",
+      "6 cloves garlic",
+      "2 red chiles, halved lengthwise",
+      "1 medium white onion, sliced",
+      "1 piece rock sugar",
+      "3 tablespoons spicy bean paste, or regular bean paste",
+      "½ cup dark soy sauce",
+      "½ cup rice wine",
+      "½ cup light soy sauce",
+      "2 medium tomatoes, quartered",
+      "1 teaspoon white pepper",
+      "1 teaspoon salt",
+      "dried bay leaf",
+      "2 bundles flour noodle",
+      "2 cups bok choy",
+      "Garnish: scallion, sliced fresh cilantro, chopped red chile (diced)"
+    ],
+    "instructions": [
+      "Fill a large pot with about 6 quarts (5 ½ L) of water and add the beef shank, 3 scallions, 5 slices of ginger, and 3 star anise pods. Cover, bring to a boil over high heat, and cook for 5 minutes.",
+      "Remove the meat from the pot, rinse in cold water, and cut into thick slices. Discard the cooking liquid.",
+      "In a wok or large pan over medium-high heat, pour in the vegetable oil and add the remaining 3 scallions, 3 ginger slices, the garlic, red chiles, remaining 3 star anise pods, the onion, rock sugar, and spicy bean paste. Cook until the onions start to become translucent.",
+      "Add the sliced beef.",
+      "Add the dark soy sauce, for color, stir, then add the rice wine.",
+      "Pour in the light soy sauce, for flavor, then add the tomatoes. Stir fry for 8-10 minutes.",
+      "Fill the same large pot about a quarter of the way with water and heat over medium-high heat. Add the stir-fried meat, vegetables, and cooking liquid.",
+      "Add more water until the meat is just covered, then add the white pepper, salt, and bay leaves. Cover and reduce the heat to low and simmer for at least 2 hours, until the meat becomes tender. Remove the bay leaves and star anise before serving.",
+      "Bring a large pot of water to boil over high heat and cook the flour noodles according to the package instructions. Remove the noodles from the water.",
+      "Add the bok choy to the boiling water. Cook for 3 minutes, then remove.",
+      "To assemble the soup, place a generous amount of noodles in the bottom of a bowl. Then, add bok choy, meat, and broth. Garnish with scallions, cilantro, and red chilies."
+    ],
+    "style": "eastern",
+    "duration": 150,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Black Bean Fish",
+    "ingredients": [
+      "300g snakehead fish (Toman fish) or any white flesh fish",
+      "A few dashes of white pepper",
+      "½ teaspoon of fresh young ginger juice",
+      "⅓ teaspoon of salt",
+      "1 tablespoon cornflour",
+      "2 chopped shallots",
+      "10g chopped young ginger",
+      "2 stalks spring onion (add stem first then the leafy part at the end of the cooking process)",
+      "4 cloves chopped garlic",
+      "1 tablespoon black bean paste ",
+      "250ml water",
+      "½ teaspoon sugar",
+      "2 thinly sliced fresh red chilli - deseeded (optional)",
+      "1 tablespoon Chinese cooking wine (Shaoxing Huatiao wine)"
+    ],
+    "instructions": [
+      "Mix fish with white pepper, ginger juice, salt",
+      "When mixed add cornflour and mix again, let it rest aside while preparing the rest",
+      "Oil pan and start by frying shallot, ginger",
+      "Add to the pan spring onion, garlic",
+      "When everything starts to brown, add black bean paste",
+      "Add Water, sugar",
+      "When it is boiling, add the fish",
+      "When everything starts to cook, add rest of green onion, chili and cooking wine"
+    ],
+    "style": "eastern",
+    "duration": 20,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Egg Bacon Muffin",
+    "ingredients": ["Egg", "Bacon", "Muffin"],
+    "instructions": [
+      "Bake eggs in the muffin tray for 15min",
+      "Fry bacon until crisp",
+      "Toast muffin bread"
+    ],
+    "style": "western",
+    "duration": 15,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Burger Buns",
+    "ingredients": [
+      "Tangzhong: 2 tablespoons (20g) bread flour, 2 tablespoons (27g) water, 4 tablespoons (60g) whole milk,",
+      "Dough: 1/2 cup(120g) whole milk @ 95f (30c) , 1 tablespoon (9g) instant yeast, 2.5 cups (320g) Bread flour, 1 teaspoon (7g) fine sea salt, 2.5 tablespoons (35g) granulated sugar, 1 whole egg, 1 egg yolk, 3 tablespoons (42g) unsalted softened butter",
+      "For Egg Wash: 1 whole egg, Splash of whole milk"
+    ],
+    "instructions": [
+      "For the tangzhong, add all ingredients together over medium heat, and constantly whisk until it becomes a paste.",
+      "For the primed yeast mixture, add water, whole milk, and instant yeast, and mix together. Store in a warm area and let sit for 8 minutes.",
+      "In a stand mixer bowl, add the dry ingredients. Slowly add in milk and yeast mixture, the tangzhong mix. Let homogenize. When the dough starts coming together, add the egg and egg yolk. Then increase speed to medium-low until incorporated. Gradually add butter until incorporated meaning when the dough is mixed, nothing sticks to the sides.",
+      "Lightly grease a medium-sized bowl, gently fold and place seam side down. Place a damp towel on the dough and bring to a warm area to proof for 1 – 1.5 hours",
+      "To shape, punch the dough down then flour work surface",
+      "Divide dough into six even pieces around 95 – 105g",
+      "To shape the individual buns, gently stretch flipped side down and fold to the center. Repeat this process for the whole segment of dough, then flip upside down.",
+      "Rotate dough 90 degrees and pull towards you. Repeat two more times to complete rotation around the whole perimeter.",
+      "Place shaped dough in a rimmed sheet tray lined with parchment paper. Leave 2.5 in of space or 6 cm apart.",
+      "Cover with a similar-sized sheet tray that is flipped so that the dough will not dry out.",
+      "Let rise at room temperature for another 1-2 hours, or until doubled.",
+      "Before baking, brush with egg wash (1 whole egg plus a splash of milk)",
+      "Bake at 375 degrees F or 190 C for 18 minutes until golden brown."
+    ],
+    "style": "baking",
+    "duration": 120,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Chicken tikka masala",
+    "ingredients": [
+      "Marinade:  1 cup Plain Yogurt, Juice of ½ Lemon, 3 cloves of Garlic finely grated, 1 tbsp, Ginger finely grated, 2 tsp Garam Masala, ½ tsp Salt, 6 Boneless Skinless Chicken Thighs cut into bite size pieces",
+      "Sauce: 2 tbsp Vegetable/Canola Oil, 2 tbsp Butter, 2 medium Onions finely diced, 3 cloves of Garlic finely grated, 1 tbsp Ginger finely grated, 1/2 tsp Turmeric Powder, 1 tsp Ground Coriander, 1 tsp Ground Cumin, 1 tsp Garam Masala,1 tsp Ground Red Chili Powder,2 cups strained Tomato Sauce, 1 cup Heavy Cream, Salt to Taste, Fresh Coriander to garnish"
+    ],
+    "instructions": [
+      "Combine marinade ingredients in bowl and marinate for 1 hour",
+      "In pan with oil, cook the chicken. Then set the chicken aside in another bowl.",
+      "In the same pan, add butter and Onions, and cook until soft and translucent.",
+      "Add Ginger and Garlic, and sautee for 30-45 seconds.",
+      "Then add Turmeric, Coriander Powder, Cumin, Garam Masala. Fry until fragrant (15-20 seconds).",
+      "Add Tomato Sauce, Ground Red Chili and season with salt to taste.",
+      "Simmer for 15-20 minutes on low heat, stirring occasionally until Tomato Sauce thickens, and takes on a deep reddish brown colour.",
+      "Add Chicken and Heavy Cream, and cook for an additional 10 minutes until mixture is bubbling, glossy, and thick."
+    ],
+    "style": "eastern",
+    "duration": 150,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Cheesecake (japanese style)",
+    "ingredients": [
+      "60 gr. Whole Milk / Full Milk",
+      "140 gr. Cream Cheese",
+      "40 gr. Butter",
+      "50 gr. Plain Flour / All Purpose Flour",
+      "15 gr. Corn Flour / Corn Starch",
+      "5 Eggs (weighs 58-60 gr. each with shell)",
+      "100 gr. Fine Sugar",
+      "Pan size: 18cm"
+    ],
+    "instructions": [
+      "Put in a pot the milk, cream cheese and butter",
+      "Heat with low fire",
+      "Stir until everything is melted and combined (turn off fire before it reaches boiling point)",
+      "Put the flour and cornstarch",
+      "Mix in the flour while the cream cheese mixture is still hot and keep stirring until the mixture is smooth, thicken and well combined",
+      "Put the egg yolks hot and keep stirring until the mixture is smooth and well combined",
+      "Whisk the 5 egg whites in a clean bowl. When the whites start to be fluffy, add gradually 100gr of sugar while keeping whisking. Stop when soft peaks stage is reached",
+      "Add half of the meringue to the cream cheese mixture. Stir SLOWLY in a circular motion. Start from the top and then slowly reach the bottom. When everything is combined add in the second half and repeat",
+      "DONT OVER MIX",
+      "Preheated Oven: 120°C / 250F - PREP: Put a tray with water at room temperature (about 1cm / half inch)",
+      "BAKING STEP 1: Baking Temperature: 120°C / 250F, Baking Time: 20 minutes, After 20 minutes, keep the oven door closed. Increase the temperature to 150°C / 300f and continue , Baking for 15 minutes.",
+      "BAKING STEP 2: After 15 minutes, open the oven door and it open for 10 seconds and then close back up. Now lower the temperature to 100°C / 200",
+      "BAKING STEP 3: Baking Temperature: 100°C / 200F - Baking Time: 40 minutes -After 40 minutes, turn off the oven. Open the oven door and close back up. Let the cake cool down in the oven for 10 minutes."
+    ],
+    "style": "baking",
+    "duration": 150,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Chocolate Muffins Blender",
+    "ingredients": [
+      "2 bananas (ripe)",
+      "2 eggs",
+      "1 cup natural peanut butter",
+      "3/4 cup old fashioned oats",
+      "1/2 cup honey",
+      "1/2 cup cocoa powder",
+      "2 teaspoons vanilla",
+      "1 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "1/4 cup water",
+      "Mini semi sweet chocolate chips (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 350 degrees. Spray 15 muffin tin cups with non-stick spray.",
+      "In a high-powered blender, add bananas, eggs, peanut butter, oats, honey, cocoa powder, vanilla, baking powder, salt and water. Blend until smooth and well mixed. Scoop batter into prepared muffin tin, filling about 1/3 of the way full.",
+      "Sprinkle the top with chocolate chips, if desired.",
+      "Bake for 13-15 minutes or until a toothpick comes out clean.",
+      "Remove from the oven and let cool for 5 minutes before removing from the pan to cool."
+    ],
+    "style": "baking",
+    "duration": 20,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Clafoutis",
+    "ingredients": [
+      " 1/2 Cup flour",
+      "1/4 granulated sugar",
+      "2 Large eggs",
+      "1/3 heavy cream (optional)",
+      "1/3 Milk (optional)",
+      "2 tablespoon unsalted butter (or greased pan)",
+      "1/4 salt",
+      "Vanilla Extract"
+    ],
+    "instructions": ["400F for 30min"],
+    "style": "baking",
+    "duration": 30,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Crisp chicken Oven/Pan combo",
+    "ingredients": ["Chicken with skin"],
+    "instructions": [
+      "Drain excess water from chicken with paper towel (helps with crispiness)",
+      "Put in oven 400F / 30min",
+      "Finish chicken on pan - 2min on skin side and 6-8min other side"
+    ],
+    "style": "western",
+    "duration": 40,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Etoile feuillete",
+    "ingredients": ["Phyllo dough", "Any time of filling"],
+    "instructions": ["180C / 360F", "20-25min"],
+    "style": "baking",
+    "duration": 40,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Fish and Chips",
+    "ingredients": [
+      "120 Grams Self Rising Flour + additional to coat",
+      "175 Grams White Fleshed Fish (such as Cod)",
+      "1 Medium Egg White",
+      "160 ML (1/2 cup or little under half a bottle) Light Beer or Lager",
+      "1 Large Waxy Potato, Peeled",
+      "Sunflower Oil",
+      "Salt",
+      "1 Teaspoon Curry Powder (used twice)",
+      "1 Teaspoon Baking Powder",
+      "Tartar: 1 Tablespoon of Gherkins, chopped, 50 Grams Creme Fraiche, 200 Grams Mayonnaise, 3/4 Shallot Diced, Lemon Juice (about 1 Teaspoon), Hot Sauce (Optional)"
+    ],
+    "instructions": [
+      "Get oil in pan medium-high heat for frying before assembling ingredients. Do not need a deep pan or pot, a large pan will do",
+      "In a bowl whisk together flour, baking soda, curry powder and beer. Then whisk egg whites till there are stiff peaks and fold into batter (if too heavy add some water)",
+      "Add teaspoon of curry powder to dredging flour for more seasoning (optional)",
+      "Season fish with salt, then coat with flour. Knock off excess flour and put into batter mixture. Make sure fish is fully battered and ad to oil",
+      "Once fish is in, baste the fish with oil. Let first side cook until golden brown and flip. Basting fish with oil on other side. Take pan on and off oil so that the oil does not get too hot. Fish should be in oil 3-3 1/2 minutes. Once finished put on plate with paper towel and put in warm oven",
+      "Chop potato into square, then chop into tall skinny fries (the skinnier the fry the quicker they will cook). Then roll in p22aper towel to dry any excess moisture. Add new oil to pain then add potatoes to high heat. Once fries are browned, remove from oil on to paper towel and add salt.",
+      "Add all Tartar ingredients together and mix. Add salt to taste and hot sauce if you want heat."
+    ],
+    "style": "western",
+    "duration": 20,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Kimchi pancake (for 4)",
+    "ingredients": [
+      "1 1/2 cup chopped drained kimchi (12 ounce jar)",
+      "1 large egg",
+      "3 tablespoons kimchi juice",
+      "1/4 cup water",
+      "1 teaspoon brown sugar",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon sesame oil",
+      "1/2 cup thinly sliced green onions",
+      "about 3/4 cup all purpose flour, or as needed",
+      "4 tablespoons bonito flakes for the top, optional"
+    ],
+    "instructions": ["Mix all ingredient together"],
+    "style": "eastern",
+    "duration": 20,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Sandwich bread",
+    "ingredients": [
+      "Option A: 3/4 cup (174g) water, 1/2 cup 125g) whole milk",
+      "Option B: 1/8cup milk powder (12g), Water (288g)",
+      "1 packet (~9 grams) yeast",
+      "3 cups (440g) bread flour",
+      "1.5 teaspoons (8g) fine sea salt",
+      "1 tablespoon  (21g) granulated sugar",
+      "3 tablespoons unsalted butter softened"
+    ],
+    "instructions": [
+      "Place in grease bowl 1/1h30 or until it doubles",
+      "Butter loaf pan",
+      "Degas dough then flatten it into rectangle",
+      "Roll and make it fit in the pan",
+      "350C - 35-40min"
+    ],
+    "style": "baking",
+    "duration": 140,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Lo Bo Gao/Turnip Cake",
+    "ingredients": [
+      "1 lb. bag of rice flour",
+      "2 lb. Asian turnips -or- daikon radish",
+      "4 cups of water",
+      "3 Tbsp. dried shrimp",
+      "3 links of Chinese Sausage  (I put four links)",
+      "1 Tbsp. dried shallots",
+      "1 tsp. soy sauce (I put more soy sauce)",
+      "1 tsp. sugar",
+      "1 tsp. salt",
+      "1/2 tsp. white pepper"
+    ],
+    "instructions": [
+      "Grate the turnip",
+      "Cook the grated turnips with 2 cups of water for about 10 minutes",
+      "Flour mixture: put rice flour in a bowl, put sugar, salt, white pepper, soy sauce, and mix. Slowly stir 2 cups room temp water",
+
+      "Sauté the Chinese sausage, shrimp and shallots (about 5 minutes). Put it in the flour mixture",
+      "Put the flour mixture with the chinese sausage into the cooked turnips.",
+      "Transfer everything into the bobby steaming pan. Steam  for 30 min"
+    ],
+    "style": "eastern",
+    "duration": 45,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Yogurt Bars",
+    "ingredients": [
+      "CRUST:",
+      "1 cup (125g) all-purpose flour",
+      "1 cup (100g) rolled oats",
+      "2/3 cup (135g) light brown sugar",
+      "1/2 tsp (2g) baking powder",
+      "1/4 tsp (1g) salt",
+      "1/2 cup (113g) unsalted butter, room temperature",
+      "Zest from a lemon",
+      "1 tsp (5g) vanilla extract",
+      "FILLING:",
+      "1 pound (450g) Greek yogurt",
+      "2 tbsp (30g) sugar",
+      "2 tbsp (16g) cornstarch",
+      "10 oz (300g) fresh raspberries"
+    ],
+    "instructions": [
+      "Preheat the oven to 350F (180C). Slightly grease a 8x8 inch (20x20cm) square pan and line with parchment paper, in such a way that some edges are longer to make it easy to lift it up once it's set.",
+      "In a bowl rub brown sugar with lemon zest for a few minutes to release oil.  Add flour, oats, baking powder and salt. Add butter and vanilla and stir until combined and crumbly. Set aside about 1 cup of crumble mixture.",
+      "Press remaining crumb mixture into the bottom of the pan.",
+      "In a medium bowl mix yogurt with sugar and cornstarch.  Spread the yogurt mixture over the crust.",
+      "Spread the raspberries over the yogurt.",
+      "Sprinkle the reserved cup of crumb mixture over the raspberries.",
+      "Bake for 40-45 minutes or until lightly browned. Cool completely and then refrigerate for about 2 hours before serving."
+    ],
+    "style": "dessert",
+    "duration": 45,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Tiramisu",
+    "ingredients": [
+      "5 large egg yolks",
+      "½ cup + 2 Tbsp (125g) Sugar",
+      "1 2/3 cups (400ml) Heavy cream, cold",
+      "14 oz (425g) Mascarpone cheese, room temperature",
+      "1 teaspoon Vanilla extract",
+      "1½ cups brewed espresso (2/13 note: leftover coffee + 4 teaspoon instant coffee)",
+      "36-40 Savoiardi biscuits (La/dyfingers)",
+      "2-3 tablespoons coffee liqueur/marsala/brandy",
+      "Cocoa for dusting"
+    ],
+    "instructions": [
+      "Make coffee mix and let cool down",
+      "Make the filling: place egg yolks and sugar in a large heatproof bowl and set over pot with simmering water (bain marie). Make sure the bottom of the bowl does not touch the water. start whisking constantly, until the sugar is dissolved, and the custard thickens. Remove the bowl from heat and let cool.",
+      "Add the mascarpone, vanilla extract and whisk until smooth.",
+      "In a separate bowl whip cold heavy cream to stiff peaks. Fold 1/3 of the whipped cream into the mascarpone mixture. Then the remaining whipped cream. Set aside. (note: whites can be used too)",
+      "Assemble: dip each ladyfinger into the coffee mixture for 1-2 seconds. Place in the bottom of a 9x13 inch (22X33cm) dish. If needed, break a few ladyfingers to fit them in the dish. Spread half of the cream over the soaked ladyfingers. Repeat with another layer of ladyfingers and spread the remaining cream on top. Cover and refrigerate the tiramisu for at least 6 hours.",
+      "Just before serving, dust with cocoa powder."
+    ],
+    "style": "dessert",
+    "duration": 360,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Soy Sauce Marinated Eggs",
+    "ingredients": [
+      "6 eggs, refrigerated",
+      "Soy sauce marinade: 1 cup soy sauce, ¼ cup mirin, 1 cup water"
+    ],
+    "instructions": [
+      "Use a needle or a small sharp knife to make a small prick in the rounded bottom side of each egg.",
+      "Bring a small saucepan of water to a gentle simmer over high heat. Then turn the heat to medium-high and add carefully add the eggs. Use a chopstick or wooden spoon to swirl the water and eggs in a circular motion. Cook for 7 minutes.",
+      "Then drain the eggs and place them into iced water. When the eggs are cool. Peel them and place them into a bowl.",
+      "For the soy sauce marinade, combine the ingredients with 1 cup of water. Pour the mixture over the eggs and set aside in the fridge to marinate overnight. Remove from the soy sauce mixture and slice in half. Use on ramen noodles, or just sprinkle with chilli flakes and eat them as they are"
+    ],
+    "style": "eastern",
+    "duration": 0,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Soy milk",
+    "ingredients": [
+      "16 oz warm water for soaking",
+      "3/4 cup soybeans",
+      "48 oz Water for blending"
+    ],
+    "instructions": [
+      "You can soak soybeans in water for up to 1 hour.",
+      "Strain, discard soaking water and rinse with clear water — remove any skins if desired.",
+      "Remove the lid from the pitcher.",
+      "Add soybeans and water to the pitcher.",
+      "Secure the lid to the pitcher.",
+      "Select Soy Milk program.",
+      "After 5 seconds, the blender will beep 3 times, and the countdown will begin once the target temperature is reached.",
+      "When the program has completed, the blender will beep 10 times and display will show “done”.",
+      "Optionally, remove the lid and filter beverage through the strainer bag.",
+      "Refrigerate for up to 4 days."
+    ],
+    "style": "drink",
+    "duration": 60,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Ramen Broth",
+    "ingredients": [
+      "Leak",
+      "Green Onion",
+      "Mushroom",
+      "Chili",
+      "Onion",
+      "6 Garlics Glove",
+      "Bone",
+      "Chicken Cube",
+      "Shoyu Tare: 1/4 cup soy sauce, 2 tablespoons Mirin "
+    ],
+    "instructions": ["Broth 5h Simmer"],
+    "style": "eastern",
+    "duration": 300,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "French Fries",
+    "ingredients": [
+      "1 1/2 pounds Russet potatoes (2-3 potatoes)",
+      "2 tablespoons extra virgin olive oil, divided",
+      "1/2 teaspoon granulated garlic or garlic powder",
+      "Salt and freshly ground black pepper",
+      "2 tablespoons finely chopped parsley",
+      "2 tablespoons finely chopped chives",
+      "1/4 cup freshly grated parmesan cheese (optional)"
+    ],
+    "instructions": [
+      "Preheat the oven to 450˚F (230˚C). Line a large baking sheet with parchment paper.",
+      "Slice the potatoes lengthwise into ¼-inch thick planks, then cut them into ¼-inch strips (I don’t peel the potatoes, as I like the flavor and appearance of the skin, but you could peel them if you prefer). Transfer the potatoes to a large bowl and cover them with 1-2 inches of very hot tap water. Let sit 10-15 minutes. Drain the potatoes, rinse them well, then pat them very dry using kitchen towels.",
+      "Drizzle 1 tablespoon of the olive oil over the parchment-lined baking sheet. Spread the potatoes over top, and drizzle them with the remaining 1 tablespoon of oil. Sprinkle with the granulated garlic, and season well with salt and pepper. Toss well to coat the potatoes, then spread them in a single layer (it’s okay if the potatoes are touching but they shouldn’t be overlapping—you can use 2 baking sheets if needed).",
+      "Roast the potatoes until they're golden and crisp on the bottom, about 20 minutes. Remove the pan from the oven, and using a large spatula, flip the fries over. Spread them in an even layer, redistributing the fries as needed (moving any lesser-cooked ones to the edges where it’s hotter)—be careful, they’re hot!",
+      "Put the pan back in the oven and continue roasting until the potatoes are golden on all sides and crisp, about 15 minutes longer. Immediately season the hot fries with more salt, and sprinkle with the parsley, chives and parmesan. Toss to coat. Serve hot."
+    ],
+    "style": "western",
+    "duration": 120,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Popcorn Chicken",
+    "ingredients": [
+      "1 ½ pounds boneless, skinless chicken thighs, cut into 1-inch pieces",
+      "2 tablespoons soy sauce",
+      "2 teaspoons granulated sugar",
+      "1 ½ teaspoons Chinese five-spice powder",
+      "1 teaspoon ground white pepper",
+      "2*2 teaspoons kosher salt",
+      "6 cups vegetable oil",
+      "1 tablespoon Sichuan peppercorns or whole black peppercorns",
+      "1 cup/115 grams tapioca flour",
+      "1 cup fresh basil leaves"
+    ],
+    "instructions": [
+      "In a large bowl, season chicken thighs with soy sauce, sugar, five-spice powder, white pepper and 2 teaspoons salt. Set aside to marinate about 1 hour at room temperature, or refrigerate it overnight.",
+      "When ready to cook, fit a medium pot with a cooking thermometer and heat vegetable oil over medium to 350 degrees. Coarsely grind the peppercorns in a spice grinder or mortar and pestle and mix with the remaining 2 teaspoons kosher salt. Set aside.",
+      "Wet your hands and toss marinated chicken with tapioca flour and about 1 tablespoon water until the tapioca flour looks like small beads and clings to the chicken. (Adding a little moisture to your chicken helps the tapioca flour form small beads that will also stick to the chicken and give it a very crunchy crust.)",
+      "Working in batches, add the battered chicken to the hot oil and fry until golden brown and crisp, 5 to 7 minutes. With a slotted spoon or spider, transfer fried chicken to a paper towel-lined plate and season each batch with peppercorn mixture.",
+      "Fry basil leaves until translucent and crisp, 1 to 2 minutes, then scatter over the fried chicken. Serve with leftover peppercorn mixture for sprinkling to taste."
+    ],
+    "style": "eastern",
+    "duration": 120,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Pizza Dough",
+    "ingredients": [
+      "2.5 cups (380g) 00tipo flour (or all purpose) - test 350g",
+      "2 tsp (10g) sugar",
+      "1.25 tsp (6g) fine sea salt",
+      "1/2 tsp (1g) diastatic malt powder",
+      "1cup (245g) water - test 230g",
+      "1.5 tsp (5g) instant yeast"
+    ],
+    "instructions": [
+      "Start by mixing together all the dry ingredients.",
+      "In a separate cup, combine lukewarm water and instant yeast. Mix together and let sit for 10 minutes.",
+      "Pour liquid into the flour mixture and begin kneading together.",
+      "Dump dough onto a work surface and knead for 5 minutes until smooth.",
+      "Roll into a ball and place into a greased bowl covered with plastic wrap and let rise for 1-2 hours at room temperature.",
+      "Preheat pizza stone and oven 500F.",
+      "Quickly mix together cornmill and all-purpose flour.",
+      "Dust the work surface with the cornmill mixture. Dump out the dough and divide into two equal portions and roll into taut balls.",
+      "Place on a generously cornmill dusted sheet tray. Cover with an inverted sheet tray resting for 30 minutes."
+    ],
+    "style": "western",
+    "duration": 300,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Quiche spinach",
+    "ingredients": [
+      "CRUST:",
+      "250g flour",
+      "125g butter",
+      "1 teaspoon salt",
+      "1 egg",
+      "63g water",
+      "CRUST INSTRUCTION: Mix flour and soften butter, Add salt, Add egg yolk, Add a tiny bit of water, Mix until smooth",
+      "FILLING:",
+      "14 oz (400g) fresh spinach",
+      "1 yellow onion",
+      "1 red onion",
+      "2 garlic cloves, crushed (optional)",
+      "3 eggs",
+      "1 cup (240 ml) heavy cream",
+      "7 oz (200g) gruyere cheese",
+      "3oz (90g) blue cheese such as gorgonzola",
+      "1/2 teaspoon salt, 1/4 teaspoon pepper, 1/4 teaspoon nutmeg",
+      "Butter + olive oil for frying"
+    ],
+    "instructions": [
+      "In a food processor process flour, salt and cold cubed butter. process until crumbs are formed. Add cold water, process until dough is formed. Do not over mix.",
+      "Transfer the dough to a work surface, pat into a ball and flatten into a disk. Wrap in plastic and refrigerate for 30 minutes.",
+      "Meanwhile make the filling: chop onions. In a large pan, melt 2 tablespoons butter and some olive oil. Add chopped onions and sauté for 5 minutes. Add crushed garlic and spinach. Cook until wilted and reduced in size. Drain.",
+      "In a large bowl beat eggs, heavy cream, salt, pepper and nut meg. Set aside.",
+      "Roll out the dough on a lightly floured board. Lightly dust the top of the dough. Roll until the dough is about 1/8 inch thick. Transfer the dough to a 9-10-inch (24-25cm) pie pan. evenly press the pastry onto the bottom and up the sides of your pan. Trim off the excess dough off the top of the pan. Gently pierce the bottom of the crust with a fork. Transfer to the freezer for 30 minutes.",
+      "Preheat oven to 350F (175C)",
+      "Blind baking: line a parchment paper over the dough. Fill with dry beans, rice or pie weights. Bake for 15 min. Remove the weights and the parchment paper. Return to oven for another 5-10 minutes or until crust is slightly golden. Remove from oven.",
+      "Sprinkle the spinach into the pie crust, sprinkle shredded gruyere cheese and cubed blue cheese. Pour the eggs and cream mixture over the spinach and cheese. ",
+      "Bake until golden brown and set, about 35 minutes. Allow to cool slightly."
+    ],
+    "style": "western",
+    "duration": 100,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Scallion Pancake",
+    "ingredients": [
+      "INGREDIENTS DOUGH:",
+      "2.5 cups flour",
+      "1/2 cup hot water (+ 1 tbsp if needed)",
+      "1/4 cup room temperature water",
+      "1 tbsp sugar",
+      "1 tsp salt",
+      "Lots of scallions",
+      "Oil",
+      "1/2 tbsp five spice powder",
+      "INGREDIENTS ROUX:",
+      "1/2 oil",
+      "1/2 all-purpose flour"
+    ],
+    "instructions": [
+      "Combine flour, sugar and salt in a bowl. Add in hot water slowly while stirring, then mix in room temperature water while continuing to stir.",
+      "Gently knead to form dough and continue kneading on floured surface for 10 minutes.",
+      "Put dough in a bowl and cover with a wet towel, rest for 30 minutes or more. (An hour would be even better if you have the patience!)",
+      "Chop scallions and make roux by mixing oil and flour in a saucepan, continue to mix over medium-low heat until thickened into a paste. Remove from heat and let cool slightly.",
+      "Roll out dough into a log shape and divide into five portions.",
+      "Roll out one piece of dough to as thin as possible, and brush on roux. Sprinkle on scallions and five spice powder.",
+      "Roll dough tightly into a log shape, then take one end of the dough and roll again onto itself to form a pinwheel shape. Gently flatten and brush on a thin layer of oil.",
+      "Let rest for 20 minutes or repeat steps for remaining dough.",
+      "Roll out dough to as thin as possible and pan fry each side until golden brown! You can sprinkle salt on at the end if you'd like too."
+    ],
+    "style": "eastern",
+    "duration": 60,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Penne Bolognese",
+    "ingredients": [
+      "1 yellow onion, minced chopped",
+      "1 carrot, minced chopped",
+      "1 stalk celery, minced chopped",
+      "1 tablespoon neutral oil",
+      "1 pound 80/20 ground beef",
+      "2 cloves garlic, minced",
+      "1/2 cup dry white wine or dry vermouth (or skip)",
+      "1 15 ounce can crushed tomatoes",
+      "3 tablespoons tomato paste",
+      "2 cups beef broth",
+      "1 bay leaf",
+      "2 teaspoons dried oregano",
+      "1 teaspoon red pepper flakes",
+      "3 tablespoons balsamic vinegar",
+      "1 1/2 cups milk",
+      "1 1/2 teaspoons kosher salt",
+      "½ teaspoon freshly ground black pepper"
+    ],
+    "instructions": [
+      "Put onion, carrot & celery -- until finely minced",
+      "Heat oil in a large pot over medium-high heat, heat oil and add the vegetables - cook until soft about 5 minutes",
+      "Put in garlic and cook until fragrant, about a minute then add beef and cook until no longer pink, breaking it up as you go",
+      "Add wine (or vermouth) and bring mixture to a simmer, and cook until wine is mostly reduced",
+      "Stir in tomatoes, tomato paste, beef stock , bay leaf, oregano, pepper flakes and balsamic vinegar – mix well, reduce heat and simmer for about an hour",
+      "Remove the bay leaf and add milk – stir well, bring to a simmer stirring occasionally, about 45 minutes",
+      "Season with salt and pepper and serve…or put into a syringe and inject"
+    ],
+    "style": "western",
+    "duration": 120,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  },
+  {
+    "name": "Cinnamon Rolls",
+    "ingredients": [
+      "DOUGH:",
+      "2 cups whole milk, warm to the touch",
+      "½ cup granulated sugar",
+      "½ cup (1 stick) unsalted butter, melted",
+      "2¼ teaspoons (1 packet) active dry yeast",
+      "5 cups all-purpose flour, divided",
+      "1 teaspoon baking powder",
+      "2 teaspoons kosher salt",
+      "FILLING:",
+      "¾ cup light brown sugar",
+      "¾ cup (1½ sticks) unsalted butter, softened",
+      "2 tablespoons ground cinnamon",
+      "FROSTING:",
+      "4 ounces cream cheese, softened and cubed",
+      "2 tablespoons unsalted butter, melted",
+      "4 tablespoons milk",
+      "1 teaspoon vanilla extract",
+      "1 cup powdered sugar"
+    ],
+    "instructions": [
+      "Make the dough: In a large bowl, whisk together the warm milk, sugar, and melted butter. The mixture should be just warm, registering between 100-110˚F (37-43˚C). If any warmer, allow to cool slightly.",
+      "Sprinkle the yeast evenly over the milk mixture, stir, and let sit in a warm place for about 10 minutes until the yeast has bloomed.",
+      "Add 4 cups of flour to the milk mixture and stir with a wooden spoon until just combined.",
+      "Cover the bowl with a kitchen towel or plastic wrap and let rise in a warm place for 1 hour, until nearly doubled in size.",
+      "Generously butter 2 9-inch round baking pans and set aside.",
+      "Make the filling: In a medium bowl, combine the brown sugar, butter, and cinnamon. Mix well, then set aside.",
+      "Remove the plastic wrap from the dough and add the remaining cup of flour, baking powder, and salt. Stir well, then turn out onto a clean surface. Leave a bit of flour nearby to use as needed, but try not to incorporate too much.",
+      "Knead the dough for at least 10 minutes, adding more flour as necessary, until the dough just loses its stickiness and does not stick to the surface or your hands. The dough should be very smooth and spring back when poked.",
+      "Roll the dough out into a large rectangle, about ½-inch (1 cm) thick. Fix the corners with a bench scraper or a spatula to make sure they are sharp and even.",
+      "Spread the filling evenly over the dough.",
+      "Starting from one short end, roll up the dough into a log and pinch the seam closed. Place seam-side down. Trim any uneven ends.",
+      "Using unflavored dental floss, cut the log into evenly pieces, about 1½ inches (8cm) thick. Place the cinnamon rolls in the prepared pans, 1 in the center and about 5 around the sides. Cover with a towel and let rise in a warm place for 35-45 minutes, until expanded by about half of their original volume. If you’re saving the cinnamon rolls for later, cover with plastic wrap and freeze for up 3 months.",
+      "Preheat the oven to 350˚F (180˚C).",
+      "Bake the cinnamon rolls for 25-30 minutes, until golden brown.",
+      "While the cinnamon rolls are baking, make the frosting: In a medium bowl, whisk together the cream cheese, melted butter, milk, and vanilla extract until smooth. Gradually add the powdered sugar and whisk until homogenous and runny.",
+      "When the cinnamon rolls are finished, let cool for about 10 minutes.",
+      "Drizzle the frosting over the cinnamon rolls, using the back of a spoon to spread if desired."
+    ],
+    "style": "baking",
+    "duration": 50,
+    "createdBy": "622cd54402f1274ad2566d3d"
+  }
+]

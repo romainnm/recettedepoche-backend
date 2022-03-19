@@ -1,0 +1,267 @@
+openapi: 3.0.0
+info:
+  title: Recette de Poche API
+  contact: {}
+  version: "1.0"
+servers:
+  - url: https://recette-de-poche.herokuapp.com/api/v1
+    variables: {}
+paths:
+  /recipes:
+    get:
+      tags:
+        - Recipes - public
+      summary: Get all recipes
+      operationId: Getallrecipes
+      parameters: []
+      responses:
+        "200":
+          description: ""
+          headers: {}
+      deprecated: false
+      security: []
+    post:
+      tags:
+        - Recipes - authenticated
+      summary: Create a recipe
+      operationId: Createarecipe
+      parameters: []
+      requestBody:
+        description: ""
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/CreatearecipeRequest"
+            example:
+              name: New Recipe
+              ingredients:
+                - Ingredient 1
+                - Ingredient 2
+                - Ingredient 3
+              instructions:
+                - Instruction 1
+                - Instruction 2
+                - Instruction 3
+              style: baking
+              duration: 60
+              createdBy: 622cd54402f1274ad2566d3d
+        required: true
+      responses:
+        "200":
+          description: ""
+          headers: {}
+      deprecated: false
+  /recipes/{id}:
+    parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+        required: true
+        description: The recipe ID
+    get:
+      tags:
+        - Recipes - public
+      summary: Get a single recipe
+      operationId: Getasinglerecipe
+      parameters: []
+      responses:
+        "200":
+          description: ""
+          headers: {}
+      deprecated: false
+      security: []
+    patch:
+      tags:
+        - Recipes - authenticated
+      summary: Update a recipe
+      operationId: Updatearecipe
+      parameters: []
+      requestBody:
+        description: ""
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/UpdatearecipeRequest"
+            example:
+              name: Updated recipe
+              ingredients:
+                - Ingredient 1
+                - Ingredient 2
+                - Ingredient 3
+              instructions:
+                - Instruction updated 1
+                - Instruction updated 2
+                - Instruction updated3
+              style: asian
+              duration: 60
+              createdBy: 622cd54402f1274ad2566d3d
+        required: true
+      responses:
+        "200":
+          description: ""
+          headers: {}
+      deprecated: false
+    delete:
+      tags:
+        - Recipes - authenticated
+      summary: Delete a recipe
+      operationId: Deletearecipe
+      parameters: []
+      responses:
+        "200":
+          description: ""
+          headers: {}
+      deprecated: false
+  /admin/register:
+    post:
+      tags:
+        - Admin - authenticated (admin)
+      summary: Create new user
+      operationId: Createnewuser
+      parameters: []
+      responses:
+        "200":
+          description: ""
+          headers: {}
+      deprecated: false
+  /login:
+    post:
+      tags:
+        - Login - public
+      summary: Login
+      operationId: Login
+      parameters: []
+      requestBody:
+        description: ""
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/LoginRequest"
+            example:
+              email: user-test@gmail.com
+              password: secret
+        required: true
+      responses:
+        "200":
+          description: ""
+          headers: {}
+      deprecated: false
+      security: []
+components:
+  schemas:
+    CreatearecipeRequest:
+      title: CreatearecipeRequest
+      required:
+        - name
+        - ingredients
+        - instructions
+        - style
+        - duration
+        - createdBy
+      type: object
+      properties:
+        name:
+          type: string
+        ingredients:
+          type: array
+          items:
+            type: string
+          description: ""
+        instructions:
+          type: array
+          items:
+            type: string
+          description: ""
+        style:
+          type: string
+        duration:
+          type: integer
+          format: int32
+        createdBy:
+          type: string
+      example:
+        name: New Recipe
+        ingredients:
+          - Ingredient 1
+          - Ingredient 2
+          - Ingredient 3
+        instructions:
+          - Instruction 1
+          - Instruction 2
+          - Instruction 3
+        style: baking
+        duration: 60
+        createdBy: 622cd54402f1274ad2566d3d
+    UpdatearecipeRequest:
+      title: UpdatearecipeRequest
+      required:
+        - name
+        - ingredients
+        - instructions
+        - style
+        - duration
+        - createdBy
+      type: object
+      properties:
+        name:
+          type: string
+        ingredients:
+          type: array
+          items:
+            type: string
+          description: ""
+        instructions:
+          type: array
+          items:
+            type: string
+          description: ""
+        style:
+          type: string
+        duration:
+          type: integer
+          format: int32
+        createdBy:
+          type: string
+      example:
+        name: Updated recipe
+        ingredients:
+          - Ingredient 1
+          - Ingredient 2
+          - Ingredient 3
+        instructions:
+          - Instruction updated 1
+          - Instruction updated 2
+          - Instruction updated3
+        style: asian
+        duration: 60
+        createdBy: 622cd54402f1274ad2566d3d
+    LoginRequest:
+      title: LoginRequest
+      required:
+        - email
+        - password
+      type: object
+      properties:
+        email:
+          type: string
+        password:
+          type: string
+      example:
+        email: user-test@gmail.com
+        password: secret
+  securitySchemes:
+    httpBearer:
+      type: http
+      scheme: bearer
+security:
+  - httpBearer: []
+tags:
+  - name: Recipes - public
+    description: ""
+  - name: Recipes - authenticated
+    description: ""
+  - name: Admin - authenticated (admin)
+    description: ""
+  - name: Login - public
+    description: ""
